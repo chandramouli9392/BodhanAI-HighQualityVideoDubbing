@@ -1,4 +1,4 @@
-# Bodhan.AI Video Dubbing Pipeline (Assignment 4)
+# Bodhan.AI Video Dubbing Pipeline
 
 An intelligent, production-ready, agentic video dubbing pipeline for Indian languages powered by **Bodhan AI** foundational hosted models.
 
